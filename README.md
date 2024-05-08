@@ -1,6 +1,5 @@
 # COMM4190 Spring 2024 - Research Project
 
-* Use this repository for your Research Project
 
 
 ### Overview
