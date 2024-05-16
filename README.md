@@ -1,6 +1,6 @@
 # COMM4190 Spring 2024 - Research Project
 
-## My Project Track
+## Can an LLM be Programmed to Transition from the Outgroup to the Ingroup of Track & Cross-Country?
 
 * [Read Paper](signature.pdf)
 
