@@ -37,6 +37,10 @@ The findings reveal that while ChatGPT demonstrates some ability to replicate te
 
 ## Conclusion
 
-Reflecting upon my findings, I see potential for improvement in training LLMs to navigate ingroup communication dynamics. My research and findings emphasize the importance of context, adaptability, and continued refinement in enhancing the LLM's ability to replicate human behaviors and conversations within the ingroup. So the short answer is NO! LLMs could not replicate the human bonds, camaraderie, 
+Reflecting upon my findings, I see potential for improvement in training LLMs to navigate ingroup communication dynamics. My research and findings emphasize the importance of context, adaptability, and continued refinement in enhancing the LLM's ability to replicate human behaviors and conversations within the ingroup. 
+
+---
+
+The short answer is NO! LLMs could not replicate the human bonds, camaraderie, and natural conversation involved in running cross-country and track. 
 
 
